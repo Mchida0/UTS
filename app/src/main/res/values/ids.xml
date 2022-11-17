@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edNilai1" type="id" />
+    <item name="edNilai2" type="id" />
+    <item name="edNilai3" type="id" />
+    <item name="btHitung" type="id" />
+    <item name="tvIPK" type="id" />
+</resources>
